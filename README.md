@@ -1,4 +1,5 @@
-# ContactEase Solutions
+# Master AI Engineering - Python Project - ContactEase Solutions
+
 
 ContactEase Solutions is a command-line application for managing contacts, developed in Python using Object-Oriented Programming principles. It provides a simple and intuitive interface to add, view, edit, delete, and search contacts, as well as the ability to save and load data to JSON files.
 
